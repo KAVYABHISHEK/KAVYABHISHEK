@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavyabhishek Inkollu</h1>
-- 🔭 I’m currently working on **FULL STACK WEB DEV**
+- 🔭 I’m currently working on to become a **FULL STACK WEB DEV**
 
 - 🌱 I’m currently learning **Java Script**
 
