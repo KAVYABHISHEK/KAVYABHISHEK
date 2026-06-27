@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavyabhishek Inkollu</h1>
+<h1 align="center">Hi, I'm Kavyabhishek Inkollu</h1>
 
 <h3 align="center">
 Software Engineer QA | Specializing in LLM Output Validation & BI Systems | Cypress Automation | Mobile & iPad Testing
@@ -6,9 +6,9 @@ Software Engineer QA | Specializing in LLM Output Validation & BI Systems | Cypr
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🧠 Quality Engineering Roadmap
+📈 **Quality Engineering Roadmap**
 
 I'm a QA Engineer focused on continuously expanding my expertise across the Software Testing ecosystem. This GitHub documents both my current experience and my learning journey toward becoming a Software Development Engineer in Test (SDET).
 
@@ -33,7 +33,7 @@ Defect Reporting & Root Cause Analysis
 
 Experience: ⭐⭐⭐⭐☆
 
-🤖 Automation Testing
+🤖 **Automation Testing**
 Technology	Current Level
 Cypress	⭐⭐☆☆☆
 Playwright	⭐☆☆☆☆ (Learning)
